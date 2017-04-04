@@ -6,4 +6,5 @@ body {
   display: flex;
   color: black;
   float: left;
-  text-align: center; }
+  text-align: center;
+  float: right; }
